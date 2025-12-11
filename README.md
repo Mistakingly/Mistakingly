@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Anna, a software engineer specialising in c++ based in scotland
+
+i love to build whatever fun projects i can in my free time, if an idea pops up i'll atleast give it a go.
+
+I'm currently working on a case / matter management system for a lawfirm that my company is employed by!
+
 <!--
 **Mistakingly/Mistakingly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
